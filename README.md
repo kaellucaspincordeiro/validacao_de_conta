@@ -6,7 +6,6 @@ Funcionalidades:
   - mínimo de 10 caracteres;
   - pelo menos uma letra maiúscula;
   - pelo menos uma letra minúscula;
-  - pelo menos um número;
   - pelo menos um caractere especial;
 - Sistema de login com verificação de e-mail e senha;
 - Limite de até 3 tentativas de login incorretas;
