@@ -12,7 +12,7 @@ py -m pip install colorama
 
 Funcionalidades:
 
--Validação de e-mail em formato básico, como:
+- Validação de e-mail em formato básico, como:
   - usuario@hotmail.com;
   - usuario@gmail.com;
   - usuario@yahoo.com;
