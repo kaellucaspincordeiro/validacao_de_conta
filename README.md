@@ -1,16 +1,16 @@
-Sistema de Validação de Conta
+**Sistema de Validação de Conta**
 
-Neste projeto foi implementado um sistema de validação de conta, no qual o usuário deve cadastrar um e-mail e uma senha. Após o cadastro, o usuário poderá realizar o login utilizando os dados informados.
+Neste projeto foi implementado um sistema de validação de conta, no qual o usuário deve cadastrar um e-mail e uma senha. Após o cadastro, o usuário poderá realizar o login utilizando os dados cadastrados.
 
-O projeto utiliza a biblioteca Colorama, uma biblioteca multiplataforma usada para adicionar cores, estilos de formatação e destaque às mensagens exibidas no terminal.
+O projeto utiliza a biblioteca **Colorama**, uma biblioteca multiplataforma usada para adicionar cores, estilos de formatação e destaque às mensagens exibidas no terminal.
 
-Instalação da biblioteca Colorama
+**Instalação da biblioteca Colorama**
 
-Para instalar a biblioteca Colorama, utilize o seguinte comando no terminal:
+Para instalar a biblioteca **Colorama**, utilize o seguinte comando no terminal:
 
 py -m pip install colorama
 
-Funcionalidades:
+**Funcionalidades**
 
 - Validação de e-mail em formato básico, como:
   - usuario@hotmail.com;
